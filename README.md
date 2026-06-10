@@ -1,4 +1,3 @@
-# KartikMankar24-
 # 💫 About Me:
 🔭 **I'm currently working on:** AI-powered Credit Risk & Digital Lending products, data analytics, and process automation.<br><br>👯 **I'm looking to collaborate on:** FinTech, Machine Learning, Data Science, Product Management, and open-source analytics projects.<br><br>🤝 **I'm looking for help with:** Building scalable AI systems, MLOps, and solving real-world business problems through data.<br><br>🌱 **I'm currently learning:** Advanced SQL, Credit Risk Modeling, Product Strategy, Generative AI, and Financial Analytics.<br><br>💬 **Ask me about:** Data Analytics, Credit Risk, Digital Lending, KNIME, SQL, Python, Process Optimization, and breaking down complex business problems.<br><br>⚡ **Fun fact:** I went from optimizing industrial processes as a Chemical Engineer to optimizing financial decisions with data—turns out, everything is a process waiting to be improved.<br>
 
